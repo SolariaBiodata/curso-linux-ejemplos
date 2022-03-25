@@ -1,0 +1,5 @@
+Lectura 10
+Escritura 9
+Ejecucion 8
+Linux	8
+Buen rollo 1000

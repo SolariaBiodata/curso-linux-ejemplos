@@ -1,0 +1,8 @@
+for i in {1..50}
+do
+	echo escribe la linea $i;
+	if !((i % 10))
+	then
+		sleep 1
+	fi
+done
